@@ -1,0 +1,55 @@
+{
+  "basics": {
+    "name": "Yiwei Zha",
+    "email": "y.zha@vu.nl",
+    "location": {
+      "city": "Amsterdam",
+      "countryCode": "NL"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=IvimIBUAAAAJ&hl=en"
+      },
+      {
+        "network": "GitHub",
+        "username": "JonathanZha47",
+        "url": "https://github.com/JonathanZha47"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "yiwei-zha",
+        "url": "https://www.linkedin.com/in/yiwei-zha/"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Vrije Universiteit Amsterdam",
+      "area": "Trustworthy AI",
+      "studyType": "PhD student"
+    },
+    {
+      "institution": "Northeastern University",
+      "area": "Computer Science",
+      "studyType": "M.S."
+    },
+    {
+      "institution": "Boston University",
+      "area": "Computer Science and Mathematics",
+      "studyType": "B.A."
+    }
+  ],
+  "interests": [
+    {
+      "name": "Trustworthy AI",
+      "keywords": [
+        "agentic-system safety",
+        "memory poisoning",
+        "model-compression safety",
+        "AI-generated content detection",
+        "LLM evaluation"
+      ]
+    }
+  ]
+}
